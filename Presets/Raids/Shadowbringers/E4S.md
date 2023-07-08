@@ -26,7 +26,7 @@ Truck Form - Inside
 ```
 ~Lv2~{"Name":"Earthen Wheels - Inside","Group":"E4S","ZoneLockH":[856],"DCond":5,"ElementsL":[{"Name":"Inside","type":3,"refY":-5.0,"offY":35.0,"radius":5.0,"color":1677721855,"refActorNameIntl":{"En":"Titan"},"FillStep":0.3,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":5.0,"Match":"Titan uses Earthen Wheels."}],"Freezing":true,"FreezeFor":5.0}
 ```
-Truck Form - Outside 1 
+Truck Form - Outside 
 
 (These will most certainly break when the boss spams the dash over and over if running the fight synced, and I will be unable to fix it until BLU patch releases)
 
