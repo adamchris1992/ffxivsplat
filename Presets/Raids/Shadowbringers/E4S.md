@@ -4,7 +4,7 @@ Landslide (Cardinal Leap)
 ```
 Tankbuster
 ```
-~Lv2~{"Name":"Tankbuster","Group":"E4S","ZoneLockH":[856],"DCond":5,"ElementsL":[{"Name":"Tankbuster","type":1,"radius":5.0,"color":1677721855,"refActorPlaceholder":["<t1>"],"refActorComparisonType":5,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":12.0,"Match":"(8350>16662)"}]}
+~Lv2~{"Name":"Tankbuster","Group":"E4S","ZoneLockH":[856],"DCond":5,"ElementsL":[{"Name":"Tankbuster","type":1,"radius":5.0,"color":1694433280,"refActorPlaceholder":["<t1>"],"refActorUseCastTime":true,"refActorCastTimeMax":12.0,"refActorUseOvercast":true,"refActorComparisonType":5,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":12.0,"Match":"(8350>16662)"}]}
 ```
 Rightward/Leftward Landslide
 ```
