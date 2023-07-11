@@ -1,3 +1,6 @@
+# Side note: Tried my best to make everything in here accurate, but since "A Realm Recorded" doesnt work in Deep Dungeons, it took MANY runs and lots of tweaking to get these to where they are now. Not everything is pixel-perfect, and the HUGE AOE's will be quite off (Like the Swinge conal I made sure to get the angle correct, but the distance wont be correct since that goes for like 5 miles), but they're there to instantly tell you what is happening so you can react accordingly.
+
+
 ```
 ~Lv2~{"Name":"Fitter","Group":"Deep Dungeon","ZoneLockH":[1099,1100,1101,1102,1103,1104,1105,1106,1107,1108,1124],"ElementsL":[{"Name":"Unholy","type":1,"radius":0.0,"Donut":30.0,"color":1677721855,"thicc":3.0,"refActorNPCNameID":12227,"refActorRequireCast":true,"refActorCastId":[2319,2362,3978,32931],"FillStep":0.3,"refActorComparisonType":6,"tether":true}]}
 ```
