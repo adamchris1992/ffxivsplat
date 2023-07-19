@@ -1,3 +1,6 @@
+# These presets were made based on running unsync'd. I cannot guarantee that mechanics repeated late in the fight will still be accurate. Testing will be required.
+
+
 Biting/Driving Frost
 ```
 ~Lv2~{"Name":"Biting/Driving Frost","Group":"E8S","ZoneLockH":[909],"ElementsL":[{"Name":"Biting Frost","type":4,"radius":20.0,"coneAngleMin":-135,"coneAngleMax":135,"refActorDataID":11627,"refActorRequireCast":true,"refActorCastId":[19814],"FillStep":1.0,"refActorComparisonType":3,"includeRotation":true,"onlyVisible":true,"Filled":true},{"Name":"Driving Frost","type":4,"radius":20.0,"coneAngleMin":-45,"coneAngleMax":45,"refActorDataID":11627,"refActorRequireCast":true,"refActorCastId":[19815],"FillStep":1.0,"refActorComparisonType":3,"includeRotation":true,"onlyVisible":true,"AdditionalRotation":3.1415927,"Filled":true}]}
