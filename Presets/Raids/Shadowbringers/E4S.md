@@ -1,4 +1,4 @@
-# These presets were made based on running unsync'd. I cannot guarantee that mechanics repeated late in the will still be accurate. Testing will be required.
+# These presets were made based on running unsync'd. I cannot guarantee that mechanics repeated late in the fight will still be accurate. Testing will be required.
 
 
 Landslide (Cardinal Leap)
