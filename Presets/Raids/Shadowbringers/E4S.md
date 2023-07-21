@@ -28,9 +28,7 @@ Truck Form - Inside
 ```
 Truck Form - Outside 
 
-(These will most certainly break when the boss spams the dash over and over if running the fight synced, and I will be unable to fix it until BLU patch releases)
-
-(Aoe will hit the far lane after this hit, but the boss spins to face someone and throws it off without time to freeze)
+(Aoe will hit the far lane after this hit, but the boss spins to face someone and throws off the preset without time to lock it in place)
 ```
 ~Lv2~{"Name":"Earthen Wheels - Outside","Group":"E4S","ZoneLockH":[856],"DCond":5,"ElementsL":[{"Name":"Left","type":3,"refX":-10.0,"refY":30.0,"offX":-10.0,"offY":-40.0,"radius":5.0,"color":1677721855,"refActorNameIntl":{"En":"Titan"},"FillStep":0.3,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true},{"Name":"Right","type":3,"refX":10.0,"refY":30.0,"offX":10.0,"offY":-40.0,"radius":5.0,"color":1677721855,"refActorNameIntl":{"En":"Titan"},"FillStep":0.3,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true}],"UseTriggers":true,"Triggers":[{"Type":2,"TimeBegin":6.0,"Duration":4.0,"Match":"Titan uses Earthen Wheels.","MatchDelay":5.0}],"Freezing":true,"FreezeFor":2.5}
 ```
