@@ -1,6 +1,3 @@
-# These presets were made based on running unsync'd. I cannot guarantee that mechanics repeated late in the fight will still be accurate. Testing will be required.
-
-
 Landslide (Cardinal Leap)
 ```
 ~Lv2~{"Name":"Landslide","Group":"E4S","ZoneLockH":[856],"ElementsL":[{"Name":"Vertical","type":3,"refY":10.0,"offY":30.0,"radius":10.0,"color":1677787391,"thicc":5.0,"refActorNPCID":8350,"refActorRequireCast":true,"refActorCastId":[16667],"refActorComparisonType":4,"includeRotation":true,"onlyUnTargetable":true},{"Name":"Horizontal","type":3,"refY":-10.0,"offY":10.0,"radius":20.0,"color":1677721855,"refActorNPCID":8350,"refActorRequireCast":true,"refActorCastId":[16667],"refActorComparisonType":4,"includeRotation":true,"onlyUnTargetable":true}]}
