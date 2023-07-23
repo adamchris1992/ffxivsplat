@@ -31,3 +31,9 @@ Point Blank
 ```
 ~Lv2~{"Name":"TP PB","Group":"Euphrosyne","ZoneLockH":[1118],"DCond":5,"ElementsL":[{"Name":"","type":1,"radius":10.0,"color":1677721855,"refActorNPCNameID":12064,"refActorComparisonType":6,"onlyVisible":true,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":2.0,"Match":"32078"}]}
 ```
+
+# Halone General
+Will of Halone (Donuts)
+```
+~Lv2~{"Name":"Halone Donuts","Group":"Euphrosyne","ZoneLockH":[1118],"ElementsL":[{"Name":"1","type":1,"radius":17.85,"Donut":6.4,"thicc":5.0,"refActorNPCNameID":12064,"refActorRequireCast":true,"refActorCastId":[27680,28598,29964,32099,32100],"refActorUseCastTime":true,"refActorCastTimeMin":1.7,"refActorCastTimeMax":3.8,"refActorUseOvercast":true,"FillStep":0.1,"refActorComparisonType":6,"onlyTargetable":true,"onlyVisible":true},{"Name":"2","type":1,"radius":11.76,"Donut":6.4,"thicc":5.0,"refActorNPCNameID":12064,"refActorRequireCast":true,"refActorCastId":[27680,28598,29964,32099,32100],"refActorUseCastTime":true,"refActorCastTimeMin":3.8,"refActorCastTimeMax":6.0,"refActorUseOvercast":true,"FillStep":0.1,"refActorComparisonType":6,"onlyTargetable":true,"onlyVisible":true},{"Name":"3","type":1,"radius":5.81,"Donut":6.4,"thicc":5.0,"refActorNPCNameID":12064,"refActorRequireCast":true,"refActorCastId":[27680,28598,29964,32099,32100],"refActorUseCastTime":true,"refActorCastTimeMin":6.0,"refActorCastTimeMax":8.2,"refActorUseOvercast":true,"FillStep":0.1,"refActorComparisonType":6,"onlyTargetable":true,"onlyVisible":true}]}
+```
