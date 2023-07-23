@@ -4,9 +4,9 @@ Azeyma
 ```
 Rhalgr's Emissary
 ```
-~Lv2~{"Name":"Rhalgr's Emissary","Group":"Aglaia","ZoneLockH":[1054],"ElementsL":[{"Name":"Destructive Static","type":4,"radius":25.0,"coneAngleMin":-90,"coneAngleMax":90,"refActorNPCNameID":11274,"refActorRequireCast":true,"refActorCastId":[28896],"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"Filled":true},{"Name":"","type":4,"refActorNPCNameID":11274,"refActorRequireCast":true,"refActorComparisonType":6,"includeRotation":true,"Filled":true},{"Name":""}]}
+~Lv2~{"Name":"Rhalgr's Emissary","Group":"Aglaia","ZoneLockH":[1054],"ElementsL":[{"Name":"Destructive Static","type":4,"radius":25.0,"coneAngleMin":-90,"coneAngleMax":90,"refActorNPCNameID":11274,"refActorRequireCast":true,"refActorCastId":[28896],"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"Filled":true}]}
 ```
-NaldThal
+NaldThal (Couple things need to be tested again next time I go in)
 ```
 ~Lv2~{"Name":"Rhalgr's Emissary","Group":"Aglaia","ZoneLockH":[1054],"ElementsL":[{"Name":"Destructive Static","type":4,"radius":25.0,"coneAngleMin":-90,"coneAngleMax":90,"refActorNPCNameID":11274,"refActorRequireCast":true,"refActorCastId":[28896],"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"Filled":true},{"Name":"","type":4,"refActorNPCNameID":11274,"refActorRequireCast":true,"refActorComparisonType":6,"includeRotation":true,"Filled":true},{"Name":""}]}
 ```
