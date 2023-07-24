@@ -39,6 +39,8 @@ Will of Halone (Donuts)
 ```
 # Menphina
 Midnight Frost || Waxing Claw
+
+(There are 30 ID's for Midnight Frost, and ive only used 12 after doing the fight... so hopefully those are just leftovers, but I will keep testing to see if anything else comes up that needs drawing)
 ```
 ~Lv2~{"Name":"Menphina","Group":"Euphrosyne","ZoneLockH":[1118],"ElementsL":[{"Name":"Midnight Frost - Front","type":4,"radius":25.0,"coneAngleMin":-90,"coneAngleMax":90,"refActorNPCNameID":12063,"refActorRequireCast":true,"refActorCastId":[31693,31691,31709,31703,31722,31723],"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true,"Filled":true},{"Name":"Midnight Frost - Rear","type":4,"radius":25.0,"coneAngleMin":-90,"coneAngleMax":90,"refActorNPCNameID":12063,"refActorRequireCast":true,"refActorCastId":[31692,31694,31710,31705,31723,32524],"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true,"Filled":true},{"Name":"Waxing Claw - Right","type":4,"radius":50.0,"coneAngleMin":-90,"coneAngleMax":90,"refActorNPCNameID":12063,"refActorRequireCast":true,"refActorCastId":[31712],"FillStep":1.0,"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true,"AdditionalRotation":1.5707964,"Filled":true},{"Name":"Waxing Claw - Left","type":4,"radius":50.0,"coneAngleMin":-90,"coneAngleMax":90,"refActorNPCNameID":12063,"refActorRequireCast":true,"refActorCastId":[31713],"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true,"AdditionalRotation":4.712389,"Filled":true}]}
 ```
