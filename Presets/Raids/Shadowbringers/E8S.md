@@ -21,7 +21,7 @@ Hallowed Wings
 ```
 Banish III
 ```
-~Lv2~{"Name":"Banish III Spread","Group":"E8S","ZoneLockH":[909],"DCond":5,"ElementsL":[{"Name":"Spread","type":1,"radius":5.14,"color":1677721855,"overlayBGColor":4278190080,"overlayTextColor":4294967295,"overlayVOffset":2.0,"overlayText":"Spread","refActorType":1,"onlyVisible":true,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":6.0,"Match":"vfx/common/eff/m0640_cst_e_2lp_c0v.avfx"}]}
+(Tweaking)
 ```
 Twin Stillness || Twin Silence
 ```
