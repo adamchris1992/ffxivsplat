@@ -40,7 +40,7 @@ Akh Rhai
 
 ONLY FOR SYNC'D (Time-based)
 
-Will be able to test on 8/16 since timer triggers dont work for Duty Recorder
+Will be able to test on 8/16 since timer triggers dont work for Duty Recorder.
 ```
 ~Lv2~{"Name":"Akh Rhai","Group":"E8S","ZoneLockH":[909],"DCond":5,"ElementsL":[{"Name":"Circles","type":1,"radius":5.0,"color":838861055,"refActorPlaceholder":["<1>,<2>,<3>,<4>,<5>,<6>,<7>,<8>"],"refActorComparisonType":5,"Filled":true}],"UseTriggers":true,"Triggers":[{"TimeBegin":504.0,"Duration":7.0,"Match":"(9353>19865)"}],"Freezing":true,"FreezeFor":7.0,"IntervalBetweenFreezes":9.0}
 ```
