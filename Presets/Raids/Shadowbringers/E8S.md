@@ -1,6 +1,3 @@
-# These presets were made based on running unsync'd. I cannot guarantee that mechanics repeated late in the fight will still be accurate. Testing will be required.
-
-
 Biting/Driving Frost
 ```
 ~Lv2~{"Name":"Biting/Driving Frost","Group":"E8S","ZoneLockH":[909],"ElementsL":[{"Name":"Biting Frost","type":4,"radius":20.0,"coneAngleMin":-135,"coneAngleMax":135,"refActorDataID":11627,"refActorRequireCast":true,"refActorCastId":[19814],"FillStep":1.0,"refActorComparisonType":3,"includeRotation":true,"onlyVisible":true,"Filled":true},{"Name":"Driving Frost","type":4,"radius":20.0,"coneAngleMin":-45,"coneAngleMax":45,"refActorDataID":11627,"refActorRequireCast":true,"refActorCastId":[19815],"FillStep":1.0,"refActorComparisonType":3,"includeRotation":true,"onlyVisible":true,"AdditionalRotation":3.1415927,"Filled":true}]}
@@ -19,9 +16,9 @@ Hallowed Wings
 ```
 ~Lv2~{"Name":"Hallowed Wings","Group":"E8S","ZoneLockH":[909],"ElementsL":[{"Name":"Right","type":4,"radius":20.0,"coneAngleMin":-90,"coneAngleMax":90,"refActorNameIntl":{"En":"Shiva"},"refActorRequireCast":true,"refActorCastId":[19830],"includeRotation":true,"onlyVisible":true,"AdditionalRotation":1.5707964,"Filled":true},{"Name":"Left","type":4,"radius":20.0,"coneAngleMin":-90,"coneAngleMax":90,"refActorNameIntl":{"En":"Shiva"},"refActorRequireCast":true,"refActorCastId":[19829],"includeRotation":true,"AdditionalRotation":4.712389,"Filled":true}]}
 ```
-Banish III
+Banish III (Marker on Shiva saying if it is fake or real)
 ```
-(Tweaking)
+~Lv2~{"Name":"Banish III Fake","Group":"E8S","ZoneLockH":[909],"DCond":5,"ElementsL":[{"Name":"Fake","type":1,"radius":0.0,"color":255,"overlayBGColor":4278190080,"overlayTextColor":4294967295,"overlayVOffset":2.0,"overlayText":"Fake","refActorType":1,"onlyVisible":true,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":6.0,"Match":"vfx/common/eff/m0640_cst_e_2lp_c0v.avfx"}]}
 ```
 Twin Stillness || Twin Silence
 ```
@@ -32,4 +29,8 @@ Wyrm's Lament
 Puts a message above your head when it's your turn to resolve your debuff.
 ```
 ~Lv2~{"Name":"Wyrms Lament 1","Group":"E8S","ZoneLockH":[909],"ElementsL":[{"Name":"Red","type":1,"radius":0.0,"color":255,"overlayBGColor":4278190080,"overlayTextColor":4294967295,"overlayVOffset":2.0,"overlayText":"Touch Head","refActorName":"*","refActorRequireBuff":true,"refActorBuffId":[2258],"refActorUseBuffTime":true,"refActorBuffTimeMax":10.0,"refActorType":1},{"Name":"Blue","type":1,"radius":0.0,"color":255,"overlayBGColor":4278190080,"overlayTextColor":4294967295,"overlayVOffset":2.0,"overlayText":"Touch Puddle","refActorName":"*","refActorRequireBuff":true,"refActorBuffId":[2259],"refActorUseBuffTime":true,"refActorBuffTimeMax":10.0,"refActorType":1}]}
+```
+Spiteful Dance || Embittered Dance
+```
+~Lv2~{"Name":"Dance","Group":"E8S","ZoneLockH":[909],"ElementsL":[{"Name":"Spiteful 1","type":1,"radius":16.0,"color":1677721855,"thicc":3.0,"refActorNameIntl":{"En":"Shiva"},"refActorRequireCast":true,"refActorCastId":[19823,19826,19940,19943],"onlyTargetable":true,"onlyVisible":true,"Filled":true},{"Name":"Spiteful 2","type":1,"radius":0.0,"Donut":16.0,"thicc":5.0,"refActorNameIntl":{"En":"Shiva"},"refActorRequireCast":true,"refActorCastId":[19823,19826,19940,19943],"refActorUseCastTime":true,"refActorCastTimeMin":5.0,"refActorCastTimeMax":7.0,"refActorUseOvercast":true,"FillStep":1.0,"includeHitbox":true,"onlyTargetable":true,"onlyVisible":true},{"Name":"Embittered 1","type":1,"radius":0.0,"Donut":16.0,"thicc":5.0,"refActorNameIntl":{"En":"Shiva"},"refActorRequireCast":true,"refActorCastId":[19824,19825,19941,19942],"refActorCastTimeMin":5.0,"refActorCastTimeMax":7.0,"refActorUseOvercast":true,"FillStep":1.0,"includeHitbox":true,"onlyTargetable":true,"onlyVisible":true},{"Name":"Embittered 2","type":1,"radius":16.0,"color":1677721855,"thicc":3.0,"refActorNameIntl":{"En":"Shiva"},"refActorRequireCast":true,"refActorCastId":[19823,19826,19940,19943],"refActorUseCastTime":true,"refActorCastTimeMin":5.0,"refActorCastTimeMax":7.0,"refActorUseOvercast":true,"onlyTargetable":true,"onlyVisible":true,"Filled":true}]}
 ```
