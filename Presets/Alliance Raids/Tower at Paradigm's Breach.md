@@ -1,5 +1,7 @@
 # These were made based off a single run of the raid. I will do another run as soon as I can after making things for new Alliance Raid Thaleia.
 
+# A few of these will be incomplete until I can do a second run.
+
 # Boss 1
 
 Colossal Impact | Copied Colossal Impact
