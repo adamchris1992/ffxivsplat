@@ -1,4 +1,4 @@
-# In Progress - Mostly done, but hoping to learn a bit on map effects for the first and last fight.
+# In Progress - Mostly done, but hoping to learn a bit on map effects for the first and last fight. Still need a couple more runs to see if certain attacks have different combinations.
 
 
 
@@ -8,6 +8,10 @@ Left Bank | Right Bank
 
 ```
 ~Lv2~{"Name":"Thaliak","Group":"Thaleia","ZoneLockH":[1178],"ElementsL":[{"Name":"Left Bank","type":3,"refX":-15.0,"refY":-30.0,"offX":-15.0,"offY":30.0,"radius":15.0,"color":1677721855,"refActorNPCNameID":11298,"refActorRequireCast":true,"refActorCastId":[35026,35884],"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true},{"Name":"Right Bank","type":3,"refX":15.0,"refY":-30.0,"offX":15.0,"offY":30.0,"radius":15.0,"color":1677721855,"refActorNPCNameID":11298,"refActorRequireCast":true,"refActorCastId":[35027,35885],"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true}]}
+```
+Water Orbs (Not sure if theyre always at the top half, so this may get tweaked later if it can change)
+```
+~Lv2~{"Name":"Thaliak Orbs - Top/Mid","Group":"Thaleia","ZoneLockH":[1178],"DCond":5,"ElementsL":[{"Name":"","type":2,"refX":-969.0,"refY":933.0,"refZ":-842.0,"offX":-921.0,"offY":933.0,"offZ":-842.0,"radius":12.0,"color":1677721855}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":5.0,"Match":"MapEffect: 0, 1, 512"}]}
 ```
 
 
