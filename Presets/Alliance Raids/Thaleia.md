@@ -2,7 +2,7 @@
 
 
 
-# Thaliak
+# Thaliak (Not sure how to handle the triangles without it taking half my life, so may be skipping those)
 
 Left Bank | Right Bank
 
