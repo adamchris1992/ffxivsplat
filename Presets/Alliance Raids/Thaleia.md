@@ -19,7 +19,7 @@ Wind Rose | Right Strait | Left Strait | Tridents | Serpents
 ~Lv2~{"Name":"Llymlaen","Group":"Thaleia","ZoneLockH":[1178],"ElementsL":[{"Name":"Wind Rose","type":1,"radius":12.0,"color":1677721855,"refActorNPCNameID":11299,"refActorRequireCast":true,"refActorCastId":[34828],"refActorComparisonType":6,"Filled":true},{"Name":"Right Strait","type":3,"refY":30.0,"radius":25.0,"color":1677721855,"refActorNPCNameID":11299,"refActorRequireCast":true,"refActorCastId":[34898],"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":1.5707964},{"Name":"Left Strait","type":3,"refY":30.0,"radius":25.0,"color":1677721855,"refActorNPCNameID":11299,"refActorRequireCast":true,"refActorCastId":[34897],"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":4.712389},{"Name":"Trident","type":1,"radius":18.0,"color":1258291455,"refActorNPCNameID":12504,"refActorRequireCast":true,"refActorCastId":[19123,19185,20011,30288,34843,34844,35407],"refActorComparisonType":6,"onlyUnTargetable":true,"onlyVisible":true,"Filled":true},{"Name":"Serpents","type":3,"refY":60.0,"offY":-10.0,"radius":10.0,"color":1677721855,"refActorNameIntl":{"En":"Llymlaen"},"refActorRequireCast":true,"refActorCastId":[34853],"includeRotation":true,"onlyUnTargetable":true}]}
 ```
 
-# Oschon (Stopping point for the night)
+# Oschon
 
 Trek Shot 1 | Soaring Minuet | Swinging Draw - NE/NW | Piton Pull | Altitude
 ```
@@ -34,7 +34,7 @@ Wandering Shot - Back
 ~Lv2~{"Name":"Oschon Wandering Shot - Back","Group":"Thaleia","ZoneLockH":[1178],"DCond":5,"ElementsL":[{"Name":"","refY":760.0,"refZ":130.0,"radius":23.0,"color":1677721855,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":7.0,"Match":"MapEffect: 72, 16, 32"}]}
 ```
 
-# Eulogia 
+# Eulogia (Dont have a great way of dealing with the forms atm, but hopefully can come up with something later)
 
 First Blush | Solar Fans | Hand of the Destroyer (possibly complete? Needs blue tested) | Tridents | Thousandfold Thrust (incomplete) | Climbing Shot (incomplete) | Soaring Minuet
 ```
