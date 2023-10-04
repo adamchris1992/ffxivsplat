@@ -1,8 +1,7 @@
-# In Progress - Mostly done, but hoping to learn a bit on map effects for the first and last fight. Still need a couple more runs to see if certain attacks have different combinations.
+# Thaliak 
 
+Not sure how to handle the triangles without it taking half my life, so may be skipping those
 
-
-# Thaliak (Not sure how to handle the triangles without it taking half my life, so may be skipping those)
 
 Left Bank | Right Bank
 
@@ -38,7 +37,9 @@ Wandering Shot - Back
 ~Lv2~{"Name":"Oschon Wandering Shot - Back","Group":"Thaleia","ZoneLockH":[1178],"DCond":5,"ElementsL":[{"Name":"","refY":760.0,"refZ":130.0,"radius":23.0,"color":1677721855,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":7.0,"Match":"MapEffect: 72, 16, 32"}]}
 ```
 
-# Eulogia (Dont have a great way of dealing with the forms atm, but hopefully can come up with something later)
+# Eulogia
+
+Dont have a great way of dealing with the forms atm, but hopefully can come up with something later
 
 First Blush | Solar Fans | Hand of the Destroyer (possibly complete? Needs blue tested) | Tridents | Thousandfold Thrust (incomplete) | Climbing Shot (incomplete) | Soaring Minuet
 ```
