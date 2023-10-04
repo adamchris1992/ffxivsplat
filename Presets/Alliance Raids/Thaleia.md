@@ -18,3 +18,11 @@ Wind Rose | Right Strait | Left Strait | Tridents | Serpents
 ```
 ~Lv2~{"Name":"Llymlaen","Group":"Thaleia","ZoneLockH":[1178],"ElementsL":[{"Name":"Wind Rose","type":1,"radius":12.0,"color":1677721855,"refActorNPCNameID":11299,"refActorRequireCast":true,"refActorCastId":[34828],"refActorComparisonType":6,"Filled":true},{"Name":"Right Strait","type":3,"refY":30.0,"radius":25.0,"color":1677721855,"refActorNPCNameID":11299,"refActorRequireCast":true,"refActorCastId":[34898],"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":1.5707964},{"Name":"Left Strait","type":3,"refY":30.0,"radius":25.0,"color":1677721855,"refActorNPCNameID":11299,"refActorRequireCast":true,"refActorCastId":[34897],"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":4.712389},{"Name":"Trident","type":1,"radius":18.0,"color":1258291455,"refActorNPCNameID":12504,"refActorRequireCast":true,"refActorCastId":[19123,19185,20011,30288,34843,34844,35407],"refActorComparisonType":6,"onlyUnTargetable":true,"onlyVisible":true,"Filled":true},{"Name":"Serpents","type":3,"refY":60.0,"offY":-10.0,"radius":10.0,"color":1677721855,"refActorNameIntl":{"En":"Llymlaen"},"refActorRequireCast":true,"refActorCastId":[34853],"includeRotation":true,"onlyUnTargetable":true}]}
 ```
+
+# Oschon (Stopping point for the night)
+
+Trek Shot 1 | Soaring Minuet
+
+```
+~Lv2~{"Name":"Oschon","Group":"Thaleia","ZoneLockH":[1178],"ElementsL":[{"Name":"Trek Shot 1","type":4,"radius":50.0,"coneAngleMin":-60,"coneAngleMax":60,"refActorName":"oschon","refActorRequireCast":true,"refActorCastId":[35908],"includeRotation":true,"Filled":true},{"Name":"Soaring Minuet","type":4,"radius":40.0,"coneAngleMin":-135,"coneAngleMax":135,"refActorNPCNameID":11300,"refActorRequireCast":true,"refActorCastId":[35220,35433,36110],"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"Filled":true}]}
+```
