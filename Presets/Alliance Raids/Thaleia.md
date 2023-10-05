@@ -30,11 +30,11 @@ Trek Shot | Soaring Minuet | Swinging Draw - NE/NW | Piton Pull | Altitude
 ```
 Wandering Shot - Front
 ```
-~Lv2~{"Name":"Oschon Wandering Shot - Front","Group":"Thaleia","ZoneLockH":[1178],"DCond":5,"ElementsL":[{"Name":"","refY":740.0,"refZ":130.0,"radius":23.0,"color":1677721855,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":7.0,"Match":"MapEffect: 72, 1, 2"}]}
+~Lv2~{"Name":"Oschon Wandering Shot - Front","Group":"Thaleia","ZoneLockH":[1178],"DCond":5,"ElementsL":[{"Name":"","refY":740.0,"refZ":130.0,"radius":23.0,"color":1677721855,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":8.0,"Match":"MapEffect: 72, 1, 2"}]}
 ```
 Wandering Shot - Back
 ```
-~Lv2~{"Name":"Oschon Wandering Shot - Back","Group":"Thaleia","ZoneLockH":[1178],"DCond":5,"ElementsL":[{"Name":"","refY":760.0,"refZ":130.0,"radius":23.0,"color":1677721855,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":7.0,"Match":"MapEffect: 72, 16, 32"}]}
+~Lv2~{"Name":"Oschon Wandering Shot - Back","Group":"Thaleia","ZoneLockH":[1178],"DCond":5,"ElementsL":[{"Name":"","refY":760.0,"refZ":130.0,"radius":23.0,"color":1677721855,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":8.0,"Match":"MapEffect: 72, 16, 32"}]}
 ```
 
 # Eulogia
