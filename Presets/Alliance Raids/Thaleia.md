@@ -42,9 +42,9 @@ Wandering Shot - Back
 
 # Eulogia
 
-Dont have a great way of dealing with the forms atm, but hopefully can come up with something later
+Dont have a great way of dealing with the forms atm, but hopefully can come up with something later.
 
-First Blush | Solar Fans | Hand of the Destroyer (possibly complete? Needs blue tested) | Tridents | Thousandfold Thrust (incomplete) | Soaring Minuet
+First Blush | Solar Fans | Hand of the Destroyer | Tridents | Thousandfold Thrust (missing left side) | Soaring Minuet
 ```
 ~Lv2~{"Name":"Eulogia","Group":"Thaleia","ZoneLockH":[1178],"ElementsL":[{"Name":"First Blush 1","type":3,"refY":70.0,"radius":12.18,"color":1677721855,"refActorNPCNameID":11301,"refActorRequireCast":true,"refActorCastId":[35379],"refActorCastTimeMin":3.6,"refActorCastTimeMax":30.0,"refActorComparisonType":6,"includeRotation":true},{"Name":"First Blush 2","type":3,"refY":70.0,"radius":12.18,"color":1677721855,"refActorNPCNameID":11301,"refActorRequireCast":true,"refActorCastId":[35380],"refActorUseCastTime":true,"refActorCastTimeMax":30.0,"refActorComparisonType":6,"includeRotation":true},{"Name":"First Blush 3","type":3,"refY":70.0,"radius":12.18,"color":1677721855,"refActorNPCNameID":11301,"refActorRequireCast":true,"refActorCastId":[35381],"refActorUseCastTime":true,"refActorCastTimeMin":7.0,"refActorCastTimeMax":30.0,"refActorComparisonType":6,"includeRotation":true},{"Name":"First Blush 4","type":3,"refY":70.0,"radius":12.18,"color":1677721855,"refActorNPCNameID":11301,"refActorRequireCast":true,"refActorCastId":[35382],"refActorUseCastTime":true,"refActorCastTimeMin":10.5,"refActorCastTimeMax":30.0,"refActorComparisonType":6,"includeRotation":true},{"Name":"Solar Fans","type":1,"radius":25.0,"color":1677721855,"refActorNPCNameID":11322,"refActorRequireCast":true,"refActorCastId":[35393],"refActorComparisonType":6,"Filled":true},{"Name":"Hand of the Destroyer","type":3,"refY":70.0,"radius":20.0,"color":1677721855,"refActorName":"*","refActorRequireCast":true,"refActorCastId":[28840,28841,28844,28847,28848,28849,28850,28853,29148,29151,35399,35400,35401,35402],"includeRotation":true,"onlyUnTargetable":true},{"Name":"Trident","type":1,"radius":18.0,"color":1677721855,"refActorNPCNameID":12504,"refActorRequireCast":true,"refActorCastId":[35408],"refActorComparisonType":6,"Filled":true},{"Name":"Thousandfold Thrust","type":3,"refY":40.0,"radius":40.0,"color":1677721855,"refActorNPCNameID":11301,"refActorRequireCast":true,"refActorCastId":[35415],"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":1.5707964,"Filled":true},{"Name":"Soaring Minuet","type":4,"radius":40.0,"coneAngleMin":-135,"coneAngleMax":135,"refActorNPCNameID":11301,"refActorRequireCast":true,"refActorCastId":[35220,35433,36110],"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"Filled":true},{"Name":"Test","type":3,"refY":-30.0,"offY":30.0,"radius":6.0,"color":1677721855,"refActorNPCID":11301,"refActorRequireCast":true,"refActorCastId":[36097],"refActorComparisonType":4,"includeRotation":true,"Filled":true}]}
 ```
@@ -52,7 +52,7 @@ Climbing Shot - Red
 ```
 ~Lv2~{"Name":"Eulogia Climbing Shot - Red","Group":"Thaleia","ZoneLockH":[1178],"DCond":5,"ElementsL":[{"Name":"","type":3,"refY":-30.0,"offY":30.0,"radius":6.0,"color":1677721855,"refActorNPCID":11301,"refActorRequireCast":true,"refActorCastId":[29633,29637,29638,36094,36096,36098],"refActorComparisonType":4,"includeRotation":true,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"vfx/common/eff/m0857_cast04_c0t1.avfx"}]}
 ```
-Climbing Shot - blue
+Climbing Shot - Blue
 ```
 ~Lv2~{"Name":"Eulogia Climbing Shot - Blue","Group":"Thaleia","ZoneLockH":[1178],"DCond":5,"ElementsL":[{"Name":"","type":3,"refY":-30.0,"offY":30.0,"radius":6.0,"color":1677721855,"refActorNPCID":11301,"refActorRequireCast":true,"refActorCastId":[29634,29635,29636,36095,36097,36099],"refActorComparisonType":4,"includeRotation":true,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"vfx/common/eff/m0857_cast03_c0t1.avfx"}]}
 ```
