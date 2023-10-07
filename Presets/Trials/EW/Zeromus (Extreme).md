@@ -3,7 +3,7 @@ Nox | Crosses
 ```
 ~Lv2~{"Name":"Zeromus","Group":"Abyssal Fracture Extreme","ZoneLockH":[1169],"ElementsL":[{"Name":"Nox","type":3,"refY":35.0,"radius":5.0,"color":1677721855,"refActorDataID":2013519,"refActorPlaceholder":[],"refActorComparisonAnd":true,"refActorComparisonType":8,"includeRotation":true,"onlyUnTargetable":true,"refActorObjectEffectData1":1,"refActorObjectEffectData2":2,"refActorObjectEffectMax":5000},{"Name":"Miasmic Blast 1","type":3,"refY":-35.0,"offY":35.0,"radius":5.0,"color":1677721855,"refActorNPCNameID":12586,"refActorRequireCast":true,"refActorCastId":[35657],"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true},{"Name":"Miasmic Blast 2","type":3,"refY":-35.0,"offY":35.0,"radius":5.0,"color":1677721855,"refActorNPCNameID":12586,"refActorRequireCast":true,"refActorCastId":[35657],"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true,"AdditionalRotation":1.5707964}]}
 ```
-Abyssal Echo (From Gabe, I adjusted timings to avoid moving before the mechanic even starts)
+Abyssal Echo (From Gabein Discord, I adjusted timings to avoid moving before the mechanic even starts)
 
 1
 ```
