@@ -12,3 +12,15 @@ Abyssal Echo (From Gabein Discord, I adjusted timings to avoid moving before the
 ```
 ~Lv2~{"Name":"Abyssal Nox AOE 2","Group":"Abyssal Fracture Extreme","ZoneLockH":[1169],"ElementsL":[{"Name":"Abyssal Echo","type":1,"radius":12.0,"color":1258291455,"refActorDataID":9020,"refActorRequireCast":true,"refActorCastId":[35578,35650],"refActorUseCastTime":true,"refActorCastTimeMin":10.0,"refActorCastTimeMax":13.0,"refActorUseOvercast":true,"refActorComparisonType":3,"onlyUnTargetable":true,"Filled":true}],"Freezing":true,"FreezeFor":6.0,"IntervalBetweenFreezes":3.0,"FreezeDisplayDelay":1.0}
 ```
+
+Flow of the Abyss
+
+Top
+```
+~Lv2~{"Name":"Flow of the Abyss - Top","Group":"Abyssal Fracture Extreme","ZoneLockH":[1169],"DCond":5,"ElementsL":[{"Name":"","type":2,"refX":80.0,"refY":87.0,"offX":120.0,"offY":87.0,"radius":7.0,"color":1677721855}],"UseTriggers":true,"Triggers":[{"Type":2,"Match":"MapEffect: 2, 1, 2"},{"Type":3,"Match":"MapEffect: 2, 4, 32"}]}
+```
+
+Middle
+```
+~Lv2~{"Name":"Flow of the Abyss - Middle","Group":"Abyssal Fracture Extreme","ZoneLockH":[1169],"DCond":5,"ElementsL":[{"Name":"","type":2,"refX":80.0,"refY":100.0,"offX":120.0,"offY":100.0,"radius":7.0,"color":1677721855}],"UseTriggers":true,"Triggers":[{"Type":2,"Match":"MapEffect: 3, 1, 2"},{"Type":3,"Match":"MapEffect: 3, 4, 32"}]}
+```
