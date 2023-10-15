@@ -14,7 +14,7 @@ Abyssal Echo (From Gabein Discord, I adjusted timings to avoid moving before the
 ~Lv2~{"Name":"Abyssal Nox AOE 2","Group":"Abyssal Fracture Extreme","ZoneLockH":[1169],"ElementsL":[{"Name":"Abyssal Echo","type":1,"radius":12.0,"color":1258291455,"refActorDataID":9020,"refActorRequireCast":true,"refActorCastId":[35578,35650],"refActorUseCastTime":true,"refActorCastTimeMin":10.0,"refActorCastTimeMax":13.0,"refActorUseOvercast":true,"refActorComparisonType":3,"onlyUnTargetable":true,"Filled":true}],"Freezing":true,"FreezeFor":6.0,"IntervalBetweenFreezes":3.0,"FreezeDisplayDelay":1.0}
 ```
 
-Flow of the Abyss
+Flow of the Abyss (Someone else had this without being extra, so I would recommend Gabein's for this, but leaving this here just because)
 
 Top
 ```
