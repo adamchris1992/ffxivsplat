@@ -2,9 +2,9 @@ The Shadow of Death's Hand
 ```
  (Not yet made)
 ```
-The Baying of the Hounds
+The Baying of the Hounds (Missing a couple things)
 ```
- (Not yet made)
+~Lv2~{"Name":"Baying of the Hounds","Group":"Bozja/Zadnor","ZoneLockH":[920],"ElementsL":[{"Name":"Hellsfire","type":3,"refY":50.0,"radius":5.0,"color":1677721855,"refActorNPCID":9395,"refActorRequireCast":true,"refActorCastId":[20553],"refActorComparisonType":4,"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true},{"Name":"Dragons Breath - L","type":4,"offY":-7.0,"radius":55.0,"coneAngleMin":-30,"coneAngleMax":30,"refActorNPCNameID":9394,"refActorRequireCast":true,"refActorCastId":[446,1103,1337,3441,4651,4673,6999,10044,11839,11953,12435,13195,16959,20543,20544,20545,27588,32907],"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":5.5850534,"Filled":true},{"Name":"Dragons Breath - R","type":4,"offY":-7.0,"radius":55.0,"coneAngleMin":-30,"coneAngleMax":30,"refActorNPCNameID":9394,"refActorRequireCast":true,"refActorCastId":[446,1103,1337,3441,4651,4673,6999,10044,11839,11953,12435,13195,16959,20543,20544,20545,27588,32907],"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"AdditionalRotation":0.6981317,"Filled":true}]}
 ```
 Kill It with Fire
 ```
