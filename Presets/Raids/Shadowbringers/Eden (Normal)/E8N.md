@@ -21,9 +21,9 @@
 ```
 
 # Mirrors Reflect
+TODO: Additional reflects
 ```
 ~Lv2~{"Name":"Mirrors Reflect","Group":"E8N","ZoneLockH":[905],"ElementsL":[{"Name":"Reflected Driving Frost","type":4,"radius":40.0,"coneAngleMin":-45,"coneAngleMax":45,"refActorName":"*","refActorRequireCast":true,"refActorCastId":[19967],"includeRotation":true,"mechanicType":1},{"Name":"Reflected Biting Frost","type":4,"radius":30.0,"coneAngleMin":-135,"coneAngleMax":135,"refActorName":"*","refActorRequireCast":true,"refActorCastId":[19966],"includeRotation":true,"mechanicType":1}]}
-TODO: Additional reflects
 ```
 
 # Holy
