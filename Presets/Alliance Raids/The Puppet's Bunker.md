@@ -1,0 +1,39 @@
+# The Puppet's Bunker
+A lot of these already have in-game telegraphs, but these allow for reaction time.
+
+# 813P-operated Aegis Unit
+```
+~Lv2~{"Name":"813P-operated Aegis Unit","Group":"The Puppet's Bunker","ZoneLockH":[917],"ElementsL":[{"Name":"Maneuver Refraction Cannons","type":4,"radius":25.0,"coneAngleMax":40,"refActorNPCNameID":9642,"refActorRequireCast":true,"refActorCastId":[20607],"refActorCastTimeMax":10.0,"refActorUseOvercast":true,"refActorComparisonType":6,"includeRotation":true,"mechanicType":1},{"Name":"Maneuver Refraction Cannons","type":4,"radius":25.0,"coneAngleMax":40,"refActorNPCNameID":9642,"refActorRequireCast":true,"refActorCastId":[20607],"refActorCastTimeMax":10.0,"refActorUseOvercast":true,"refActorComparisonType":6,"includeRotation":true,"AdditionalRotation":1.134464,"mechanicType":1},{"Name":"Maneuver Refraction Cannons","type":4,"radius":25.0,"coneAngleMax":40,"refActorNPCNameID":9642,"refActorRequireCast":true,"refActorCastId":[20607],"refActorCastTimeMax":10.0,"refActorUseOvercast":true,"refActorComparisonType":6,"includeRotation":true,"AdditionalRotation":2.6179938,"mechanicType":1},{"Name":"Maneuver Refraction Cannons","type":4,"radius":25.0,"coneAngleMax":40,"refActorNPCNameID":9642,"refActorRequireCast":true,"refActorCastId":[20607],"refActorCastTimeMax":10.0,"refActorUseOvercast":true,"refActorComparisonType":6,"includeRotation":true,"AdditionalRotation":3.9269907,"mechanicType":1},{"Name":"Maneuver Refraction Cannons","type":4,"radius":25.0,"coneAngleMax":40,"refActorNPCNameID":9642,"refActorRequireCast":true,"refActorCastId":[20607],"refActorCastTimeMax":10.0,"refActorUseOvercast":true,"refActorComparisonType":6,"includeRotation":true,"AdditionalRotation":4.9741883,"mechanicType":1}]}
+```
+
+# 724P-operated Superior Flight Unit (A-lpha)
+```
+~Lv2~{"Name":"724P-operated Superior Flight Unit (A-lpha)","Group":"The Puppet's Bunker","ZoneLockH":[917],"ElementsL":[{"Name":"Sharp Turn","type":3,"refX":17.5,"refY":75.0,"offX":17.5,"offY":-75.0,"radius":17.5,"refActorNPCNameID":9364,"refActorRequireCast":true,"refActorCastId":[20393,20394,20589,20590,21777,21778,21779,21780],"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true,"mechanicType":1}]}
+```
+
+# 767P-operated Superior Flight Unit (B-eta)
+```
+~Lv2~{"Name":"767P-operated Superior Flight Unit (B-eta)","Group":"The Puppet's Bunker","ZoneLockH":[917],"ElementsL":[{"Name":"Sharp Turn","type":3,"refX":17.5,"refY":75.0,"offX":17.5,"offY":-75.0,"radius":17.5,"refActorNPCNameID":9617,"refActorRequireCast":true,"refActorCastId":[20393,20394,20589,20590,21777,21778,21779,21780],"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true,"mechanicType":1}]}
+```
+
+# 772P-operated Superior Flight Unit (C-hi)
+```
+~Lv2~{"Name":"772P-operated Superior Flight Unit (C-hi)","Group":"The Puppet's Bunker","ZoneLockH":[917],"ElementsL":[{"Name":"Sharp Turn","type":3,"refX":17.5,"refY":75.0,"offX":17.5,"offY":-75.0,"radius":17.5,"refActorNPCNameID":9618,"refActorRequireCast":true,"refActorCastId":[20393,20394,20589,20590,21777,21778,21779,21780],"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true,"mechanicType":1}]}
+```
+
+# 905P-operated Heavy Artillery Unit
+```
+~Lv2~{"Name":"905P-operated Heavy Artillery Unit","Group":"The Puppet's Bunker","ZoneLockH":[917],"ElementsL":[{"Name":"Pod Program Laser Line","type":3,"refY":30.0,"radius":6.0,"refActorNPCID":9651,"refActorTargetingYou":1,"refActorRequireCast":true,"refActorCastId":[20464],"refActorComparisonType":4,"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true,"mechanicType":1},{"Name":"Pod Program Hammer","type":1,"offY":8.0,"radius":18.0,"refActorNPCID":9651,"refActorTargetingYou":1,"refActorRequireCast":true,"refActorCastId":[20465],"refActorComparisonType":4,"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true,"mechanicType":1}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"(9650>20458)"}]}
+```
+
+# The Compound
+```
+~Lv2~{"Name":"The Compound","Group":"The Puppet's Bunker","ZoneLockH":[917],"ElementsL":[{"Name":"Mechanical Dissection","type":3,"refY":45.0,"offY":-45.0,"radius":0.0,"refActorNPCNameID":9646,"refActorRequireCast":true,"refActorCastId":[20915],"refActorComparisonType":6,"includeHitbox":true,"includeRotation":true,"onlyTargetable":true},{"Name":"Mechanical Decapitation","type":1,"radius":1.8,"Donut":45.0,"refActorNPCNameID":9646,"refActorRequireCast":true,"refActorCastId":[20916],"refActorComparisonType":6,"includeHitbox":true,"onlyTargetable":true},{"Name":"Incongruous Spin","type":3,"refY":45.0,"offY":4.0,"radius":75.0,"fillIntensity":0.27058825,"originFillColor":905969919,"endFillColor":905969919,"refActorNPCID":9646,"refActorTargetingYou":1,"refActorRequireCast":true,"refActorCastId":[20914,20913],"refActorComparisonType":4,"includeRotation":true,"onlyUnTargetable":true,"DistanceMax":517.30005,"mechanicType":1}]}
+```
+
+# Compound 2P
+```
+~Lv2~{"Name":"Compound 2P","Group":"The Puppet's Bunker","ZoneLockH":[917],"ElementsL":[{"Name":"Prime Blade (Circle-Out)","type":1,"radius":20.0,"refActorNPCNameID":9644,"refActorRequireCast":true,"refActorCastId":[21535],"refActorComparisonType":6,"onlyVisible":true,"mechanicType":1},{"Name":"Prime Blade (Cone)","type":4,"radius":100.0,"coneAngleMin":-65,"coneAngleMax":65,"refActorNPCNameID":9644,"refActorRequireCast":true,"refActorCastId":[21536],"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true,"mechanicType":1},{"Name":"Prime Blade (Circle-In)","type":1,"radius":8.0,"Donut":45.0,"refActorNPCNameID":9644,"refActorRequireCast":true,"refActorCastId":[21537],"refActorComparisonType":6,"onlyVisible":true,"mechanicType":1}]}
+
+TODO: Teleporting pods and correct circles designated by sparkly lines.
+```
