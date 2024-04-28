@@ -32,8 +32,8 @@ A lot of these already have in-game telegraphs, but these allow for reaction tim
 ```
 
 # Compound 2P
+Issue: Green circle will show on teleporting pods; I do not know how to fix that as it's not the pod initiating the teleport.
+TODO: Teleporting pods. Realistically, I'm probably not going to get around to this.
 ```
-~Lv2~{"Name":"Compound 2P","Group":"The Puppet's Bunker","ZoneLockH":[917],"ElementsL":[{"Name":"Prime Blade (Circle-Out)","type":1,"radius":20.0,"refActorNPCNameID":9644,"refActorRequireCast":true,"refActorCastId":[21535],"refActorComparisonType":6,"onlyVisible":true,"mechanicType":1},{"Name":"Prime Blade (Cone)","type":4,"radius":100.0,"coneAngleMin":-65,"coneAngleMax":65,"refActorNPCNameID":9644,"refActorRequireCast":true,"refActorCastId":[21536],"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true,"mechanicType":1},{"Name":"Prime Blade (Circle-In)","type":1,"radius":8.0,"Donut":45.0,"refActorNPCNameID":9644,"refActorRequireCast":true,"refActorCastId":[21537],"refActorComparisonType":6,"onlyVisible":true,"mechanicType":1}]}
-
-TODO: Teleporting pods and correct circles designated by sparkly lines.
+~Lv2~{"Name":"Compound 2P","Group":"The Puppet's Bunker","ZoneLockH":[917],"ElementsL":[{"Name":"Prime Blade (Circle-Out)","type":1,"radius":20.0,"refActorNPCNameID":9644,"refActorRequireCast":true,"refActorCastId":[21535],"refActorComparisonType":6,"onlyVisible":true,"mechanicType":1},{"Name":"Prime Blade (Cone)","type":4,"radius":100.0,"coneAngleMin":-65,"coneAngleMax":65,"refActorNPCNameID":9644,"refActorRequireCast":true,"refActorCastId":[21536],"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true,"mechanicType":1},{"Name":"Prime Blade (Circle-In)","type":1,"radius":8.0,"Donut":45.0,"refActorNPCNameID":9644,"refActorRequireCast":true,"refActorCastId":[21537],"refActorComparisonType":6,"onlyVisible":true,"mechanicType":1},{"Name":"Safe","type":1,"radius":8.0,"refActorComparisonType":7,"refActorVFXPath":"vfx/channeling/eff/chn_m0674_c1v.avfx","refActorVFXMax":12000,"mechanicType":2},{"Name":"Danger","type":1,"radius":8.0,"refActorComparisonType":7,"refActorVFXPath":"vfx/channeling/eff/chn_m0674_c0v.avfx","refActorVFXMax":12000,"mechanicType":1}]}
 ```
