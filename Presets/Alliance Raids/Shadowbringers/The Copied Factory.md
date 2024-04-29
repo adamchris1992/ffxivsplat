@@ -16,7 +16,7 @@ TODO:
 ```
 
 # Engles
-* Marx Smash, left, right, back, front, sides and middle.
+* Marx Smash; left, right, back + sides, front + middle.
 * Laser
 * Marx Saws
 ```
