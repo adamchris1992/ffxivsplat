@@ -38,7 +38,7 @@ Chain - Left
 # Xun-Zi adds
 
 ```
-~Lv2~{"Name":"Xun -Zi","Group":"Tower at Paradigm's Breach","ZoneLockH":[966],"ElementsL":[{"Name":"Left","type":3,"refX":-16.0,"offX":-16.0,"offY":50.0,"radius":9.0,"color":1677721855,"FillStep":0.3,"refActorComparisonType":7,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"refActorVFXPath":"vfx/common/eff/m0715_sp_c_2lp_r1.avfx","refActorVFXMax":7000},{"Name":"Right","type":3,"refX":16.0,"offX":16.0,"offY":50.0,"radius":9.0,"color":1677721855,"FillStep":0.3,"refActorComparisonType":7,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"refActorVFXPath":"vfx/common/eff/m0715_sp_c_2lp_r1.avfx","refActorVFXMax":7000},{"Name":"Mid","type":3,"Enabled":false,"offY":50.0,"radius":9.0,"refActorComparisonType":7,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"refActorVFXMax":7000}]}
+~Lv2~{"Name":"Xun -Zi","Group":"Tower at Paradigm's Breach","ZoneLockH":[966],"ElementsL":[{"Name":"Left","type":3,"refX":-16.0,"offX":-16.0,"offY":50.0,"radius":9.0,"color":1677721855,"FillStep":0.3,"refActorComparisonType":7,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"refActorVFXPath":"vfx/common/eff/m0715_sp_c_2lp_r1.avfx","refActorVFXMax":7000},{"Name":"Right","type":3,"refX":16.0,"offX":16.0,"offY":50.0,"radius":9.0,"color":1677721855,"FillStep":0.3,"refActorComparisonType":7,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"refActorVFXPath":"vfx/common/eff/m0715_sp_c_2lp_r1.avfx","refActorVFXMax":7000},{"Name":"Mid","type":3,"offY":50.0,"radius":9.0,"refActorComparisonType":7,"includeRotation":true,"onlyTargetable":true,"onlyVisible":true,"refActorVFXPath":"vfx/common/eff/m0715_sp_b_2lp_r1.avfx","refActorVFXMax":7000}]}
 ```
 # Boss 4
 
